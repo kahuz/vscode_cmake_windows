@@ -5,11 +5,11 @@
 - [CMake 설치](#cmake-install)
 2. [VS Code](#vs-code)
 - [VS Code install](#vs-code-install)
-- [VS Code 의 CMake 프로젝트 환경설정](#vs-code의-cmake-프로젝트-환경설정)
+- [VS Code의 CMake 프로젝트 환경설정](#vs-code의-cmake-프로젝트-환경설정)
 - [CMake 프로젝트 생성하기](#cmake-프로젝트-생성하기)
 3. [ImGui 프로젝트 만들기](#imgui-프로젝트-만들기)
 - [프로젝트 파일 트리 구성](#프로젝트-파일-트리-구성)
-- [CMakeLIsts.txt 편집하기](#CMakeLIsts.txt-편집하기)
+- [CMakeLIsts.txt 편집하기](#cmakeLIsts.txt-편집하기)
 
 #
 
@@ -64,7 +64,7 @@ Extensions 도구메뉴에서 cmake를 검색하면 CMake와 CMake Tools라는 �
 
 다음은 VS Code를 이용하여 CMake 프로젝트를 생성하고 빌드하여 프로그램이 동작하는 과정이다.
 
-<img src=".\vscode_create_cmake_project_1.PNG" style="zoom:33%;" />
+<img src=".\figure\vscode_create_cmake_project_1.PNG" style="zoom:33%;" />
 
 우선 CMake 프로젝트를 생성하기 위해 Command Palette를 열어준다. 사진과 같이 View - Command Palette를 선택하거나 Ctrl+Shift+P 로 Command Palette를 열어준다.
 
